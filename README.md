@@ -1,4 +1,5 @@
-![logo](img/LOGO.png)# Bubroo
+![logo](img/LOGO.png)
+# Bubroo
 
 Bubroo is an AI-powered professional networking and career development platform prototype designed around one core problem: access to opportunity is still shaped too much by opaque networks, weak signaling, and fragmented information.
 
