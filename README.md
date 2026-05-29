@@ -37,7 +37,7 @@ Bubroo combines several layers:
 The Figma prototype for Bubroo can be accessed here:
 
 [Figma Design Link](https://www.figma.com/design/CrSJFrugZEuyQ6mtdWbQm0/Bubroo-Application-2024?node-id=0-1&p=f&t=22fhXzX0KYTvATcs-0)
-
+[Mobile welcoming page](./img/Screenshot 2026-05-29 165435.jpg)
 ## Repository contents
 
 This repo currently includes:
@@ -48,7 +48,7 @@ This repo currently includes:
 - release materials for the Android MVP
 
 
-## Why this project matters to me
+## Why this project matters to US
 
 What interested me in Bubroo was not just “better networking,” but the deeper structure underneath it. Too much of career access still depends on visibility, timing, and social proximity rather than on legible capability. Bubroo was an attempt to think about that gap as a platform problem.
 
