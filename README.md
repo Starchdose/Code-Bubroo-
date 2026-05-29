@@ -41,12 +41,10 @@ The Figma prototype for Bubroo can be accessed here:
 ## Repository contents
 
 This repo currently includes:
-
-- business proposal and strategic plan
-- executive summary
-- feature list
-- business planning workbook
-- README and prototype references
+- [Executive Summary](./Bubroo%20Executive%20Summary.pdf)
+- [Business Proposal and Strategic Plan](./Bubroo%20Business%20Proposal%20and%20Strategic%20Plan.pdf)
+- [Feature List](./Bubroo%20Feature%20list.pdf)
+- [Business Plan Workbook](./Bubroo-business-plan-workbook.xlsx)
 - release materials for the Android MVP
 
 
