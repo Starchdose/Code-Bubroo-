@@ -1,4 +1,5 @@
-![LOGO](img/微信图片_20260529103534.png)# Bubroo
+<img src="aimg/微信图片_20260529103534.png" alt="Logo" width="120"/>
+# Bubroo
 
 Bubroo is an AI-powered professional networking and career development platform prototype designed around one core problem: access to opportunity is still shaped too much by opaque networks, weak signaling, and fragmented information.
 
