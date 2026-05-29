@@ -1,15 +1,5 @@
-Android phones install different packages based on their architecture:
+## Design Prototype
 
-Most standard Android phones use the ARM architecture, divided into two types:
+The Figma prototype for Bubroo can be accessed here:
 
-arm64-v8a (Recommended)
-
-Suitable for newer phones (most recent models use this).
-64-bit architecture.
-Offers better performance.
-Corresponding file: app-arm64-v8a-release.apk
-armeabi-v7a
-
-Suitable for older phones.
-32-bit architecture.
-Corresponding file: app-armeabi-v7a-release.apk
+[Figma Design Link](https://www.figma.com/design/CrSJFrugZEuyQ6mtdWbQm0/Bubroo-Application-2024?node-id=0-1&p=f&t=22fhXzX0KYTvATcs-0)
