@@ -49,9 +49,6 @@ This repo currently includes:
 - README and prototype references
 - release materials for the Android MVP
 
-## My role
-
-My work on Bubroo focused on the product and business side of the concept, including problem framing, platform logic, strategic positioning, and overall direction of the user-facing idea.
 
 ## Why this project matters to me
 
