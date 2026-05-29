@@ -37,7 +37,9 @@ Bubroo combines several layers:
 The Figma prototype for Bubroo can be accessed here:
 
 [Figma Design Link](https://www.figma.com/design/CrSJFrugZEuyQ6mtdWbQm0/Bubroo-Application-2024?node-id=0-1&p=f&t=22fhXzX0KYTvATcs-0)
-[Mobile welcoming page](./img/Screenshot 2026-05-29 165435.jpg)
+
+![Mobile welcoming page](img/Screenshot%202026-05-29%20165435.jpg)
+
 ## Repository contents
 
 This repo currently includes:
