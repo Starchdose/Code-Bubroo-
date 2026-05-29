@@ -17,8 +17,10 @@ Bubroo was built around several recurring issues in the job market:
 
 The idea was to approach these not just as recruiting problems, but as product and system design problems.
 
+![diagram](img/Screenshot%202026-05-29%20165615.jpg)
+
 ## Core product ideas
-![interface](img/Screenshot%202026-05-29%20165532.jpg)
+
 Bubroo combines several layers:
 
 - **Skill-centric transparency**  
@@ -33,6 +35,7 @@ Bubroo combines several layers:
 - **A more intuitive and less anxiety-driven interface**  
   The product direction aimed to feel closer to a modern, supportive digital platform than to a traditional job board.
 
+![interface](img/Screenshot%202026-05-29%20165532.jpg)
 ## Design Prototype
 
 The Figma prototype for Bubroo can be accessed here:
