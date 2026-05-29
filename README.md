@@ -18,7 +18,7 @@ Bubroo was built around several recurring issues in the job market:
 The idea was to approach these not just as recruiting problems, but as product and system design problems.
 
 ## Core product ideas
-
+![interface](img/Screenshot%202026-05-29%20165532.jpg)
 Bubroo combines several layers:
 
 - **Skill-centric transparency**  
